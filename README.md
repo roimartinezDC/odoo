@@ -18,6 +18,7 @@ Servicio Odoo con conexión a PostgreSQL
 Una vez tenemos levantado el contenedor, podemos abrir la carpeta donde se encuentra el Odoo con PyCharm, y enlazar el programa con Docker y con la base de datos.
 ## Enlazar con Docker
 Enlazar con PyCharm con Docker es tan sencillo como ir a la pestaña _Services_ de la barra inferior de la pantalla, pinchar en el "+" y darle a _Docker Connection_, en caso de tener un Docker funcional en el equipo darle a OK, y listo.
+
 ![image](https://user-images.githubusercontent.com/91198492/214038864-b3633235-5477-4ff7-be96-9efa80f6cc8c.png)
 
 ## Enlazar con PostgreSQL
