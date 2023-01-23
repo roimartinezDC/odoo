@@ -1,5 +1,5 @@
 # odoo
-ServicioOdoo con conexión a PostgreSQL
+Servicio Odoo con conexión a PostgreSQL
 
 # 1. Docker-compose
 + Para generar el docker-compose correcto, debemos ir a DockerHub, buscar la imagen oficial de Odoo, y copiar el código del compose, la versión más simple nos serviría.
